@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 My name is James Pope. I am a Sophomore Computer Science student at the University of Massachusetts Lowell!
 I am currently seeking a Spring/Summer 2022 Software Engineering Co-op!
