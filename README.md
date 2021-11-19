@@ -7,7 +7,7 @@ I am currently an incoming Software Engineering Co-op at Fresenius Medical Care!
 -->
 
 - 🔭 I’m currently working on an embedded software project, as well as an algorithmic project!
-- 🌱 I’m interested in Machine Learning, embedded systems, and C++!
+- 🌱 I’m interested in Machine Learning, Cognitive Science, embedded systems, and C++!
 - 💬 I will talk about cars for hours!
 - 📫 Reach out to me at james_pope@student.uml.edu!
 
