@@ -6,8 +6,7 @@ I am currently an incoming Software Engineering Co-op at Fresenius Medical Care!
 **jpope15/jpope15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on an embedded software project, as well as an algorithmic project!
-- 🌱 I’m interested in Machine Learning, Cognitive Science, embedded systems, and C++!
+- 🌱 I’m interested in Machine Learning, Cognitive Science, Embedded Systems, and C++!
 - 💬 I will talk about cars for hours!
 - 📫 Reach out to me at james_pope@student.uml.edu!
 
