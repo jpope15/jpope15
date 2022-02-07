@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is James Pope. I am a Computer Science Major at the University of Massachusetts Lowell!
+My name is James Pope. I am a Computer Science Major at the University of Massachusetts Lowell! I am currently working as a Software Engineering Intern at NxStage Medical!
 <!--
 **jpope15/jpope15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
