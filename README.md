@@ -5,7 +5,7 @@ My name is James Pope. I am a Computer Science Major at the University of Massac
 **jpope15/jpope15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m interested in OOP, Web Development, and Machine Learning!
+- 🌱 I’m interested in operating systems, machine learning, and high-performance code!
 - 💬 I will talk about cars for hours!
 - 📫 Reach out to me at james_pope@student.uml.edu!
 
