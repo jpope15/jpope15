@@ -5,7 +5,7 @@ My name is James Pope. I am a Computer Science & Math Major at the University of
 **jpope15/jpope15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m interested in operating systems, machine learning, and high-performance code!
+- 🌱 I’m interested in operating systems, low-latency code, basketball, and cars!
 - 💬 I will talk about cars for hours!
 - 📫 Reach out to me at james_pope@student.uml.edu!
 
