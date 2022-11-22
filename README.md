@@ -1,11 +1,1 @@
-### Hello! 👋
-
-My name is James Pope. I am a Computer Science & Math Major at the University of Massachusetts Lowell! I am currently working as a Software Engineering Intern at NxStage Medical!
-<!--
-**jpope15/jpope15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-- 🌱 I’m interested in high-performance systems, cars, and learning new things!
-- 📫 Reach out to me at james_pope@student.uml.edu
-
-[![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpope15)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/jpope15?template=classic&languages=1&leetcode=1&lines=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=html%2Ccss&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&leetcode=false&leetcode.user=jamespope&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=America%2FNew_York)
